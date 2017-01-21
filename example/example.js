@@ -5,6 +5,8 @@ var JPEGEncoder = require('jpg-stream/encoder')
 
 var Crop = require('../')
 
+// Image by MacCasarotto http://maccasarotto.deviantart.com/art/dramatic-chipmunk-2-0-478441223
+
 var inputFilename = path.join(__dirname, 'dramatic_chipmunk.jpg')
 var outputFilename = path.join(__dirname, 'dramatic_chipmunk_crop.jpg')
 
